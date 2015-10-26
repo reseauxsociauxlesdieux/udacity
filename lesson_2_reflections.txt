@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+ 
+ It creates an empty repository in the current folder
+ To store new items in the folder
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is a temporary working directory/repository that allows you to keep
+track of the modifications before commiting them definitely.

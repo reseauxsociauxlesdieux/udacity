@@ -1,0 +1,6 @@
+It help you to work in groups on the same file
+and make sure past versions are preserved in case
+you need them. Even if you are the only one working
+on a file, it allows you to keep track of past versions
+and thus be able to study and take some good portions
+of the old versions
