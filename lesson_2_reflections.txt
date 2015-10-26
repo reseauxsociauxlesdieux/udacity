@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 
 It is a temporary working directory/repository that allows you to keep
 track of the modifications before commiting them definitely.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+If you see you have made more than one logical change, you can use the git reset —-hard command to cancel them and start back again, or modify it manually
