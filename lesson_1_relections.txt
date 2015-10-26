@@ -1,0 +1,15 @@
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because Git Hub being designed for software development, it is useful to
+be able to modify different documents at the same time. Since you often
+have to modify different documents in git as they ar interelated
+How can you use the commands git log and git diff to view the history of files?
+git log shows you the different updates to the text while
+ git diff can be used to compare between two different versions
+\n yolo
+    
+ it would ensure that 1- I could quickly find the bug by comparing the newest version to a previous one
+ and 2- worst case being, I could just restore it back
+    
+How do you want to use Git?
+
+To find bugs faster in my files and keep track of the changes made over time
