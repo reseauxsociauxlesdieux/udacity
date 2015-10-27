@@ -11,3 +11,27 @@ track of the modifications before commiting them definitely.
 How can you use the staging area to make sure you have one commit per logical change?
 
 If you see you have made more than one logical change, you can use the git reset —-hard command to cancel them and start back again, or modify it manually
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you need to make separate alternate version of the same file
+
+How do the diagrams help you visualize the branch structure?
+
+I can be easy to get lost if you don,t draw a diagram, it also shows you the importance of always knowing on which commit you are actually positioned
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We combine the modifications made to the two files. Representing it in the diagram helps to understand the mechanics of it e.g that the x branch is merged INTO the master branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatically:
+
+Pros: faster, efficient
+Cons: prone to errors
+
+Manually:
+
+Pros: prone to errors
+Cons: faster, efficient
